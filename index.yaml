@@ -3,12 +3,12 @@ entries:
   flask-app:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-03-04T08:28:07.658904784Z"
+    created: "2025-03-04T09:13:41.11721087Z"
     description: A Helm chart for deploying Flask App with MySQL
-    digest: 50ffdfb2d28bd7be6d6747939ee98a4ee9c6e4843a6c80ffe55afd40c7a1cfeb
+    digest: f22a558ba1166529b6a6a6c94882b2e2f5a911eeeb8063497946f3e7a182b2ff
     name: flask-app
     type: application
     urls:
-    - https://amitayalmog.github.io/helm-flaskgif/flask-app-1.0.16.tgz
-    version: 1.0.16
-generated: "2025-03-04T08:28:07.658547619Z"
+    - https://amitayalmog.github.io/helm-flaskgif/flask-app-1.0.17.tgz
+    version: 1.0.17
+generated: "2025-03-04T09:13:41.116820611Z"
